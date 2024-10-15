@@ -1,6 +1,6 @@
 
 
-- 📫 How to reach me **chanukasankalpa456@gmail.com**
+
 
 <h1 align="center">Hi, I'm Hasindu Chanuka 👋</h1>
 
@@ -20,12 +20,16 @@
 </div>
 
 ###
+<hr>
+- 📫 How to reach me **chanukasankalpa456@gmail.com**
 
+<hr>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hasindu1998.hasindu1998&"  />
 </div>
 
 ###
+<hr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
