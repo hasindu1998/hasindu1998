@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">I'm an undergraduate IT student at SLIIT 👨‍💻, passionate about technology, software development, and creating innovative solutions. With a solid foundation in web development, including HTML, CSS, JavaScript, and PHP🌐<br> I’m continuously expanding my skills and working on exciting projects.<br><br>I'm always eager to learn new technologies and contribute to open-source projects, as well as collaborate on creative and impactful solutions.<br> <br>📂Check out my repositories to see what I'm working on!<br><br>Feel free to connect with me!</h3>
+<h3 align="center">I'm an undergraduate IT student at SLIIT 👨‍💻, passionate about technology, software development, and creating innovative solutions. With a solid foundation in web development, including HTML, CSS, JavaScript, and PHP🌐<br> I’m continuously expanding my skills and working on exciting projects.<br><br><br> <br>📂Check out my repositories to see what I'm working on!<br><br>Feel free to connect with me!</h3>
 
 <br>
 
