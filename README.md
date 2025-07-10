@@ -8,7 +8,7 @@
 
 <br>
 
-- 📫 How to reach me **chanukasankalpa456@gmail.com**
+<div align="center">- 📫 How to reach me **chanukasankalpa456@gmail.com**</div>
 
 ###
 
