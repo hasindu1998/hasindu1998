@@ -8,7 +8,7 @@
 <br>
 
 - 📫 Email **chanukasankalpa456@gmail.com**
-- - 📫 Mobile **0767892645**
+- 📫 Mobile **0767892645**
 
 ###
 
