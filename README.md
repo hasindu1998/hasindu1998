@@ -7,7 +7,8 @@
 
 <br>
 
-- 📫 How to reach me **chanukasankalpa456@gmail.com**
+- 📫 Email **chanukasankalpa456@gmail.com**
+- - 📫 Mobile **+94767892645**
 
 ###
 
