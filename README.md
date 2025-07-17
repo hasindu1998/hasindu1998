@@ -6,7 +6,7 @@
 <h3 align="center">I’m Hasindu Chanuka, a Software Engineering undergraduate at SLIIT with a GPA of 3.52 👨‍💻. I specialize in full-stack development using React, Next.js, TypeScript, Java, and Spring Boot.<br><br>As a freelance graphic designer on Fiverr, I’ve delivered creative branding solutions with a focus on quality and communication. I'm passionate about clean code, problem-solving, and crafting intuitive UI/UX experiences.<br><br><br>📂Check out my repositories to see what I'm working on!<br><br>Feel free to connect with me!<br></h3>
 
 <br>
-- 📫 Visit my portfolio **[chanukasankalpa456@gmail.com](https://my-portfolio-nextjs-cyan.vercel.app/)**
+- 📫 Visit my portfolio **https://my-portfolio-nextjs-cyan.vercel.app/**
 - 📫 Email **chanukasankalpa456@gmail.com**
 - 📫 Mobile **+94767892645**
 
